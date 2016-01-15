@@ -1,0 +1,970 @@
+fileFormatVersion: 2
+guid: e1418009fc77d4c45a0327f8fe9a6e5e
+timeCreated: 1452771631
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OverlayScreen3_0
+    21300002: OverlayScreen3_1
+    21300004: OverlayScreen3_2
+    21300006: OverlayScreen3_3
+    21300008: OverlayScreen3_4
+    21300010: OverlayScreen3_5
+    21300012: OverlayScreen3_6
+    21300014: OverlayScreen3_7
+    21300016: OverlayScreen3_8
+    21300018: OverlayScreen3_9
+    21300020: OverlayScreen3_10
+    21300022: OverlayScreen3_11
+    21300024: OverlayScreen3_12
+    21300026: OverlayScreen3_13
+    21300028: OverlayScreen3_14
+    21300030: OverlayScreen3_15
+    21300032: OverlayScreen3_16
+    21300034: OverlayScreen3_17
+    21300036: OverlayScreen3_18
+    21300038: OverlayScreen3_19
+    21300040: OverlayScreen3_20
+    21300042: OverlayScreen3_21
+    21300044: OverlayScreen3_22
+    21300046: OverlayScreen3_23
+    21300048: OverlayScreen3_24
+    21300050: OverlayScreen3_25
+    21300052: OverlayScreen3_26
+    21300054: OverlayScreen3_27
+    21300056: OverlayScreen3_28
+    21300058: OverlayScreen3_29
+    21300060: OverlayScreen3_30
+    21300062: OverlayScreen3_31
+    21300064: OverlayScreen3_32
+    21300066: OverlayScreen3_33
+    21300068: OverlayScreen3_34
+    21300070: OverlayScreen3_35
+    21300072: OverlayScreen3_36
+    21300074: OverlayScreen3_37
+    21300076: OverlayScreen3_38
+    21300078: OverlayScreen3_39
+    21300080: OverlayScreen3_40
+    21300082: OverlayScreen3_41
+    21300084: OverlayScreen3_42
+    21300086: OverlayScreen3_43
+    21300088: OverlayScreen3_44
+    21300090: OverlayScreen3_45
+    21300092: OverlayScreen3_46
+    21300094: OverlayScreen3_47
+    21300096: OverlayScreen3_48
+    21300098: OverlayScreen3_49
+    21300100: OverlayScreen3_50
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: OverlayScreen3_0
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 7538
+        width: 1284
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.5, y: 78.5}
+        - {x: -160.5, y: -77.5}
+        - {x: 161.5, y: -77.5}
+        - {x: 161.5, y: 78.5}
+    - name: OverlayScreen3_1
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 7538
+        width: 1288
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -161, y: 79}
+        - {x: -161, y: -78}
+        - {x: 162, y: -78}
+        - {x: 162, y: 79}
+    - name: OverlayScreen3_2
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 7534
+        width: 1298
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.25, y: 80}
+        - {x: -162.25, y: 78}
+        - {x: -162.25, y: -79}
+        - {x: 163.75, y: -79}
+        - {x: 163.75, y: 78}
+        - {x: 161.75, y: 80}
+    - name: OverlayScreen3_3
+      rect:
+        serializedVersion: 2
+        x: 4087
+        y: 7534
+        width: 1299
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -161.25, y: 80}
+        - {x: -162.25, y: 79}
+        - {x: -162.25, y: -79}
+        - {x: 163.75, y: -79}
+        - {x: 163.75, y: 80}
+    - name: OverlayScreen3_4
+      rect:
+        serializedVersion: 2
+        x: 5439
+        y: 7530
+        width: 1303
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.75, y: 81}
+        - {x: -162.75, y: 79}
+        - {x: -162.75, y: -80}
+        - {x: 164.25, y: -80}
+        - {x: 164.25, y: 80}
+        - {x: 163.25, y: 81}
+    - name: OverlayScreen3_5
+      rect:
+        serializedVersion: 2
+        x: 6790
+        y: 7530
+        width: 1308
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -163.5, y: 81}
+        - {x: -163.5, y: -79}
+        - {x: -162.5, y: -80}
+        - {x: 164.5, y: -80}
+        - {x: 164.5, y: 81}
+    - name: OverlayScreen3_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6838
+        width: 1314
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162.5, y: 82}
+        - {x: -164.5, y: 80}
+        - {x: -164.5, y: -80}
+        - {x: -163.5, y: -81}
+        - {x: 164.5, y: -81}
+        - {x: 164.5, y: 82}
+    - name: OverlayScreen3_7
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 6832
+        width: 1316
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -164.5, y: 82}
+        - {x: -164.5, y: -80}
+        - {x: -162.5, y: -82}
+        - {x: 164.5, y: -82}
+        - {x: 165.5, y: -81}
+        - {x: 165.5, y: 82}
+    - name: OverlayScreen3_8
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 6831
+        width: 1322
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 165.5, y: 83.75}
+        - {x: -163.5, y: 83.75}
+        - {x: -165.5, y: 81.75}
+        - {x: -165.5, y: -80.25}
+        - {x: -163.5, y: -82.25}
+        - {x: 164.5, y: -82.25}
+        - {x: 165.5, y: -81.25}
+    - name: OverlayScreen3_9
+      rect:
+        serializedVersion: 2
+        x: 4074
+        y: 6830
+        width: 1327
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 167, y: 82.5}
+        - {x: 166, y: 83.5}
+        - {x: -165, y: 83.5}
+        - {x: -166, y: 82.5}
+        - {x: -166, y: -81.5}
+        - {x: -165, y: -82.5}
+        - {x: 165, y: -82.5}
+        - {x: 167, y: -80.5}
+    - name: OverlayScreen3_10
+      rect:
+        serializedVersion: 2
+        x: 5424
+        y: 6827
+        width: 1333
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 167, y: 82.75}
+        - {x: 166, y: 84.75}
+        - {x: -165, y: 84.75}
+        - {x: -167, y: 82.75}
+        - {x: -167, y: -81.25}
+        - {x: -165, y: -83.25}
+        - {x: 165, y: -83.25}
+        - {x: 167, y: -81.25}
+    - name: OverlayScreen3_11
+      rect:
+        serializedVersion: 2
+        x: 6778
+        y: 6826
+        width: 1336
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 167, y: 85}
+        - {x: -165, y: 85}
+        - {x: -167, y: 83}
+        - {x: -167, y: -83}
+        - {x: -166, y: -84}
+        - {x: 166, y: -84}
+        - {x: 168, y: -83}
+        - {x: 168, y: 82}
+    - name: OverlayScreen3_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6134
+        width: 1340
+        height: 676
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -165.5, y: 85.5}
+        - {x: -167.5, y: 83.5}
+        - {x: -167.5, y: -84.5}
+        - {x: 168.5, y: -84.5}
+        - {x: 168.5, y: 83.5}
+        - {x: 167.5, y: 85.5}
+    - name: OverlayScreen3_13
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 6131
+        width: 1346
+        height: 679
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 168.5, y: 84.25}
+        - {x: 166.5, y: 86.25}
+        - {x: -167.5, y: 86.25}
+        - {x: -168.5, y: 85.25}
+        - {x: -168.5, y: -82.75}
+        - {x: -166.5, y: -84.75}
+        - {x: 165.5, y: -84.75}
+        - {x: 168.5, y: -82.75}
+    - name: OverlayScreen3_14
+      rect:
+        serializedVersion: 2
+        x: 2710
+        y: 6128
+        width: 1347
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 169.5, y: 83}
+        - {x: 167.5, y: 86}
+        - {x: -166.5, y: 86}
+        - {x: -168.5, y: 84}
+        - {x: -168.5, y: -84}
+        - {x: -166.5, y: -86}
+        - {x: 167.5, y: -86}
+        - {x: 169.5, y: -84}
+    - name: OverlayScreen3_15
+      rect:
+        serializedVersion: 2
+        x: 4067
+        y: 6134
+        width: 1339
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -164.25, y: 85.5}
+        - {x: -167.25, y: 82.5}
+        - {x: -167.25, y: -82.5}
+        - {x: -166.25, y: -84.5}
+        - {x: 166.75, y: -84.5}
+        - {x: 168.75, y: -82.5}
+        - {x: 168.75, y: 83.5}
+        - {x: 166.75, y: 85.5}
+    - name: OverlayScreen3_16
+      rect:
+        serializedVersion: 2
+        x: 5427
+        y: 6140
+        width: 1327
+        height: 662
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -163.75, y: 83}
+        - {x: -165.75, y: 81}
+        - {x: -165.75, y: -82}
+        - {x: -164.75, y: -83}
+        - {x: 166.25, y: -83}
+        - {x: 167.25, y: -82}
+        - {x: 167.25, y: 82}
+        - {x: 166.25, y: 83}
+    - name: OverlayScreen3_17
+      rect:
+        serializedVersion: 2
+        x: 6784
+        y: 6144
+        width: 1318
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -163, y: 82}
+        - {x: -165, y: 80}
+        - {x: -165, y: -82}
+        - {x: 165, y: -82}
+        - {x: 165, y: 81}
+        - {x: 164, y: 82}
+    - name: OverlayScreen3_18
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 5462
+        width: 1307
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 163.5, y: 81}
+        - {x: -163.5, y: 81}
+        - {x: -163.5, y: -79}
+        - {x: -162.5, y: -80}
+        - {x: 163.5, y: -80}
+        - {x: 164.5, y: -79}
+        - {x: 164.5, y: 79}
+    - name: OverlayScreen3_19
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 5466
+        width: 1302
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162, y: 80}
+        - {x: -163, y: 79}
+        - {x: -163, y: -79}
+        - {x: 163, y: -79}
+        - {x: 163, y: 79}
+        - {x: 162, y: 80}
+    - name: OverlayScreen3_20
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 5474
+        width: 1284
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.5, y: 78.5}
+        - {x: -160.5, y: -77.5}
+        - {x: 161.5, y: -77.5}
+        - {x: 161.5, y: 78.5}
+    - name: OverlayScreen3_21
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 5470
+        width: 1288
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -161, y: 79}
+        - {x: -161, y: -78}
+        - {x: 162, y: -78}
+        - {x: 162, y: 79}
+    - name: OverlayScreen3_22
+      rect:
+        serializedVersion: 2
+        x: 5440
+        y: 5467
+        width: 1298
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162.5, y: 80.25}
+        - {x: -162.5, y: -76.75}
+        - {x: -160.5, y: -78.75}
+        - {x: 161.5, y: -78.75}
+        - {x: 162.5, y: -77.75}
+        - {x: 162.5, y: 80.25}
+    - name: OverlayScreen3_23
+      rect:
+        serializedVersion: 2
+        x: 6795
+        y: 5466
+        width: 1299
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -161.25, y: 80}
+        - {x: -162.25, y: 79}
+        - {x: -162.25, y: -79}
+        - {x: 163.75, y: -79}
+        - {x: 163.75, y: 80}
+    - name: OverlayScreen3_24
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4774
+        width: 1305
+        height: 639
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.75, y: 81}
+        - {x: -162.75, y: 79}
+        - {x: -162.75, y: -80}
+        - {x: 164.25, y: -80}
+        - {x: 164.25, y: 80}
+        - {x: 163.25, y: 81}
+    - name: OverlayScreen3_25
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 4774
+        width: 1308
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -163.5, y: 81}
+        - {x: -163.5, y: -79}
+        - {x: -162.5, y: -80}
+        - {x: 164.5, y: -80}
+        - {x: 164.5, y: 81}
+    - name: OverlayScreen3_26
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 4768
+        width: 1312
+        height: 650
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162, y: 81.5}
+        - {x: -164, y: 79.5}
+        - {x: -164, y: -81.5}
+        - {x: 165, y: -81.5}
+        - {x: 165, y: 80.5}
+        - {x: 164, y: 81.5}
+    - name: OverlayScreen3_27
+      rect:
+        serializedVersion: 2
+        x: 4078
+        y: 4767
+        width: 1316
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -163.5, y: 82.75}
+        - {x: -164.5, y: 81.75}
+        - {x: -164.5, y: -80.25}
+        - {x: -162.5, y: -81.25}
+        - {x: 163.5, y: -81.25}
+        - {x: 165.5, y: -80.25}
+        - {x: 165.5, y: 82.75}
+    - name: OverlayScreen3_28
+      rect:
+        serializedVersion: 2
+        x: 5430
+        y: 4766
+        width: 1322
+        height: 658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -164, y: 83}
+        - {x: -165, y: 82}
+        - {x: -165, y: -82}
+        - {x: 166, y: -82}
+        - {x: 166, y: 82}
+        - {x: 165, y: 83}
+    - name: OverlayScreen3_29
+      rect:
+        serializedVersion: 2
+        x: 6782
+        y: 4762
+        width: 1330
+        height: 663
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 167, y: 82}
+        - {x: 165, y: 84}
+        - {x: -164, y: 84}
+        - {x: -166, y: 82}
+        - {x: -166, y: -81}
+        - {x: -164, y: -83}
+        - {x: 165, y: -83}
+        - {x: 167, y: -81}
+    - name: OverlayScreen3_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4071
+        width: 1331
+        height: 667
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 167.5, y: 82.75}
+        - {x: 166.5, y: 84.75}
+        - {x: -164.5, y: 84.75}
+        - {x: -166.5, y: 82.75}
+        - {x: -166.5, y: -81.25}
+        - {x: -164.5, y: -83.25}
+        - {x: 165.5, y: -83.25}
+        - {x: 167.5, y: -81.25}
+    - name: OverlayScreen3_31
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 4070
+        width: 1336
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 167, y: 85}
+        - {x: -165, y: 85}
+        - {x: -167, y: 83}
+        - {x: -167, y: -83}
+        - {x: -166, y: -84}
+        - {x: 166, y: -84}
+        - {x: 168, y: -83}
+        - {x: 168, y: 82}
+    - name: OverlayScreen3_32
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 4064
+        width: 1340
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 166.5, y: 85}
+        - {x: -166.5, y: 85}
+        - {x: -167.5, y: 84}
+        - {x: -167.5, y: -83}
+        - {x: -166.5, y: -85}
+        - {x: 166.5, y: -85}
+        - {x: 168.5, y: -83}
+        - {x: 168.5, y: 83}
+    - name: OverlayScreen3_33
+      rect:
+        serializedVersion: 2
+        x: 4066
+        y: 4064
+        width: 1344
+        height: 681
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 166, y: 85.5}
+        - {x: -166, y: 85.5}
+        - {x: -168, y: 83.5}
+        - {x: -168, y: -84.5}
+        - {x: -167, y: -85.5}
+        - {x: 167, y: -85.5}
+        - {x: 169, y: -84.5}
+        - {x: 169, y: 82.5}
+    - name: OverlayScreen3_34
+      rect:
+        serializedVersion: 2
+        x: 5418
+        y: 4062
+        width: 1347
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 169.5, y: 84.5}
+        - {x: 168.5, y: 86.5}
+        - {x: -166.5, y: 86.5}
+        - {x: -168.5, y: 84.5}
+        - {x: -168.5, y: -83.5}
+        - {x: -166.5, y: -85.5}
+        - {x: 166.5, y: -85.5}
+        - {x: 169.5, y: -82.5}
+    - name: OverlayScreen3_35
+      rect:
+        serializedVersion: 2
+        x: 6778
+        y: 4070
+        width: 1336
+        height: 671
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 166, y: 85}
+        - {x: -165, y: 85}
+        - {x: -167, y: 83}
+        - {x: -167, y: -83}
+        - {x: -166, y: -84}
+        - {x: 166, y: -84}
+        - {x: 168, y: -83}
+        - {x: 168, y: 83}
+    - name: OverlayScreen3_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3386
+        width: 1323
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 165.5, y: 83.5}
+        - {x: -163.5, y: 83.5}
+        - {x: -165.5, y: 82.5}
+        - {x: -165.5, y: -81.5}
+        - {x: -164.5, y: -82.5}
+        - {x: 164.5, y: -82.5}
+        - {x: 166.5, y: -81.5}
+        - {x: 166.5, y: 80.5}
+    - name: OverlayScreen3_37
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 3392
+        width: 1314
+        height: 646
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -163, y: 81}
+        - {x: -164, y: 80}
+        - {x: -164, y: -81}
+        - {x: 165, y: -81}
+        - {x: 165, y: 80}
+        - {x: 164, y: 81}
+    - name: OverlayScreen3_38
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 3398
+        width: 1296
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -162, y: 80}
+        - {x: -162, y: -79}
+        - {x: 163, y: -79}
+        - {x: 163, y: 80}
+    - name: OverlayScreen3_39
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 3406
+        width: 1284
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.5, y: 78.5}
+        - {x: -160.5, y: -77.5}
+        - {x: 161.5, y: -77.5}
+        - {x: 161.5, y: 78.5}
+    - name: OverlayScreen3_40
+      rect:
+        serializedVersion: 2
+        x: 5450
+        y: 3406
+        width: 1284
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.5, y: 78.5}
+        - {x: -160.5, y: -77.5}
+        - {x: 161.5, y: -77.5}
+        - {x: 161.5, y: 78.5}
+    - name: OverlayScreen3_41
+      rect:
+        serializedVersion: 2
+        x: 6802
+        y: 3406
+        width: 1284
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.5, y: 78.5}
+        - {x: -160.5, y: -77.5}
+        - {x: 161.5, y: -77.5}
+        - {x: 161.5, y: 78.5}
+    - name: OverlayScreen3_42
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2718
+        width: 1284
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.5, y: 78.5}
+        - {x: -160.5, y: -77.5}
+        - {x: 161.5, y: -77.5}
+        - {x: 161.5, y: 78.5}
+    - name: OverlayScreen3_43
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2718
+        width: 1284
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.5, y: 78.5}
+        - {x: -160.5, y: -77.5}
+        - {x: 161.5, y: -77.5}
+        - {x: 161.5, y: 78.5}
+    - name: OverlayScreen3_44
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 2718
+        width: 1284
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.5, y: 78.5}
+        - {x: -160.5, y: -77.5}
+        - {x: 161.5, y: -77.5}
+        - {x: 161.5, y: 78.5}
+    - name: OverlayScreen3_45
+      rect:
+        serializedVersion: 2
+        x: 4094
+        y: 2718
+        width: 1284
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.5, y: 78.5}
+        - {x: -160.5, y: -77.5}
+        - {x: 161.5, y: -77.5}
+        - {x: 161.5, y: 78.5}
+    - name: OverlayScreen3_46
+      rect:
+        serializedVersion: 2
+        x: 5450
+        y: 2718
+        width: 1284
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.5, y: 78.5}
+        - {x: -160.5, y: -77.5}
+        - {x: 161.5, y: -77.5}
+        - {x: 161.5, y: 78.5}
+    - name: OverlayScreen3_47
+      rect:
+        serializedVersion: 2
+        x: 6802
+        y: 2718
+        width: 1284
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.5, y: 78.5}
+        - {x: -160.5, y: -77.5}
+        - {x: 161.5, y: -77.5}
+        - {x: 161.5, y: 78.5}
+    - name: OverlayScreen3_48
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2026
+        width: 1284
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.5, y: 78.5}
+        - {x: -160.5, y: -77.5}
+        - {x: 161.5, y: -77.5}
+        - {x: 161.5, y: 78.5}
+    - name: OverlayScreen3_49
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 2026
+        width: 1284
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.5, y: 78.5}
+        - {x: -160.5, y: -77.5}
+        - {x: 161.5, y: -77.5}
+        - {x: 161.5, y: 78.5}
+    - name: OverlayScreen3_50
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 2026
+        width: 1284
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -160.5, y: 78.5}
+        - {x: -160.5, y: -77.5}
+        - {x: 161.5, y: -77.5}
+        - {x: 161.5, y: 78.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

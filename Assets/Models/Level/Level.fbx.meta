@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 3169dd5147e4d9545b462f482adfe2c9
+timeCreated: 1452786254
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: back
+    100002: Bodem
+    100004: Deel1
+    100006: Deel2
+    100008: Deur
+    100010: Deur_Cel
+    100012: Frame_Cel
+    100014: Frame_Deur
+    100016: Grond
+    100018: Grond 1
+    100020: left
+    100022: //RootNode
+    100024: Level:left
+    100026: Muren
+    100028: Muren1
+    100030: Muur_N
+    100032: Muur_N 1
+    100034: Muur_O
+    100036: Muur_W
+    100038: Muur_W 1
+    100040: Muur_W 2
+    100042: Muur_W_structuur
+    100044: Muur_Z
+    100046: Pilaar
+    100048: Pilaar1
+    100050: Pilaar2
+    100052: Pilaar_L
+    100054: Pilaar_L1
+    100056: Pilaar_L2
+    100058: Pilaar_L3
+    100060: Pilaar_L4
+    100062: Pilaar_L5
+    100064: Pilaar_L6
+    100066: Pilaar_R
+    100068: Pilaren
+    100070: Platform2
+    100072: Platform3
+    100074: Structuur_Grond
+    100076: Tralies_Cel
+    100078: Tralies_Cel1
+    100080: Tralies_Deur
+    100082: Tralies_Deur1
+    100084: Frame_Deur1
+    100086: group1
+    100088: Tralies_Deur2
+    100090: Tralies_Deur3
+    400000: back
+    400002: Bodem
+    400004: Deel1
+    400006: Deel2
+    400008: Deur
+    400010: Deur_Cel
+    400012: Frame_Cel
+    400014: Frame_Deur
+    400016: Grond
+    400018: Grond 1
+    400020: left
+    400022: //RootNode
+    400024: Level:left
+    400026: Muren
+    400028: Muren1
+    400030: Muur_N
+    400032: Muur_N 1
+    400034: Muur_O
+    400036: Muur_W
+    400038: Muur_W 1
+    400040: Muur_W 2
+    400042: Muur_W_structuur
+    400044: Muur_Z
+    400046: Pilaar
+    400048: Pilaar1
+    400050: Pilaar2
+    400052: Pilaar_L
+    400054: Pilaar_L1
+    400056: Pilaar_L2
+    400058: Pilaar_L3
+    400060: Pilaar_L4
+    400062: Pilaar_L5
+    400064: Pilaar_L6
+    400066: Pilaar_R
+    400068: Pilaren
+    400070: Platform2
+    400072: Platform3
+    400074: Structuur_Grond
+    400076: Tralies_Cel
+    400078: Tralies_Cel1
+    400080: Tralies_Deur
+    400082: Tralies_Deur1
+    400084: Frame_Deur1
+    400086: group1
+    400088: Tralies_Deur2
+    400090: Tralies_Deur3
+    2300000: Bodem
+    2300002: Deur
+    2300004: Frame_Cel
+    2300006: Frame_Deur
+    2300008: Grond 1
+    2300010: Muren
+    2300012: Muren1
+    2300014: Muur_N 1
+    2300016: Muur_O
+    2300018: Muur_W 2
+    2300020: Muur_W_structuur
+    2300022: Muur_Z
+    2300024: Pilaar
+    2300026: Pilaar1
+    2300028: Pilaar2
+    2300030: Pilaar_L
+    2300032: Pilaar_L1
+    2300034: Pilaar_L2
+    2300036: Pilaar_L3
+    2300038: Pilaar_L4
+    2300040: Pilaar_L5
+    2300042: Pilaar_L6
+    2300044: Pilaar_R
+    2300046: Platform2
+    2300048: Platform3
+    2300050: Structuur_Grond
+    2300052: Tralies_Cel
+    2300054: Tralies_Cel1
+    2300056: Tralies_Deur
+    2300058: Tralies_Deur1
+    2300060: Frame_Deur1
+    2300062: Tralies_Deur2
+    2300064: Tralies_Deur3
+    3300000: Bodem
+    3300002: Deur
+    3300004: Frame_Cel
+    3300006: Frame_Deur
+    3300008: Grond 1
+    3300010: Muren
+    3300012: Muren1
+    3300014: Muur_N 1
+    3300016: Muur_O
+    3300018: Muur_W 2
+    3300020: Muur_W_structuur
+    3300022: Muur_Z
+    3300024: Pilaar
+    3300026: Pilaar1
+    3300028: Pilaar2
+    3300030: Pilaar_L
+    3300032: Pilaar_L1
+    3300034: Pilaar_L2
+    3300036: Pilaar_L3
+    3300038: Pilaar_L4
+    3300040: Pilaar_L5
+    3300042: Pilaar_L6
+    3300044: Pilaar_R
+    3300046: Platform2
+    3300048: Platform3
+    3300050: Structuur_Grond
+    3300052: Tralies_Cel
+    3300054: Tralies_Cel1
+    3300056: Tralies_Deur
+    3300058: Tralies_Deur1
+    3300060: Frame_Deur1
+    3300062: Tralies_Deur2
+    3300064: Tralies_Deur3
+    4300000: Structuur_Grond
+    4300002: Grond
+    4300004: Bodem
+    4300006: Muur_N
+    4300008: Deur
+    4300010: Pilaar_R
+    4300012: Pilaar_L
+    4300014: Pilaar_L1
+    4300016: Pilaar_L2
+    4300018: Pilaar_L3
+    4300020: Pilaar_L4
+    4300022: Pilaar_L5
+    4300024: Pilaar_L6
+    4300026: Frame_Cel
+    4300028: Tralies_Cel
+    4300030: Frame_Deur
+    4300032: Tralies_Deur
+    4300034: Tralies_Cel1
+    4300036: Tralies_Deur1
+    4300038: Muur_W_structuur
+    4300040: Muur_W
+    4300042: Muur_Z
+    4300044: Muur_O
+    4300046: Platform2
+    4300048: Pilaar
+    4300050: Muren
+    4300052: Pilaar1
+    4300054: Pilaar2
+    4300056: Platform3
+    4300058: Muren1
+    4300060: Frame_Deur1
+    4300062: Tralies_Deur2
+    4300064: Tralies_Deur3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
